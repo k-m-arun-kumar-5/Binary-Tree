@@ -12,7 +12,7 @@ I thank to my family, Friends, Teachers, People behind the toolchains and refere
 
 Toolchains that I used for C Application design and development are as follows :
 ==================================================================================
-1: IDE or Compiler used                                                     - Dev-C++ / Turbo C++ / CodeBlocks with GNU GCC Compiler. 
+1: IDE or Compiler used                                                     - CodeBlocks with GNU GCC Compiler. 
 2: Desktop Computer Architecture and OS for C Programming                   - Intel X64 & Windows 8.1 (64 bit).
 3: Code editor                                                              - Notepad++.
 4: Documentation                                                            - Microsoft Office 2007 (alternative LibreOffice) and Text Editor. 
